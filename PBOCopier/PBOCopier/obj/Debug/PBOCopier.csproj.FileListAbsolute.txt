@@ -1,0 +1,8 @@
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\PBOCopier\PBOCopier\bin\Debug\PBOCopier.exe
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\PBOCopier\PBOCopier\bin\Debug\PBOCopier.pdb
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\PBOCopier\PBOCopier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\PBOCopier\PBOCopier\obj\Debug\PBOCopier.FormPBOCopier.resources
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\PBOCopier\PBOCopier\obj\Debug\PBOCopier.Properties.Resources.resources
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\PBOCopier\PBOCopier\obj\Debug\PBOCopier.csproj.GenerateResource.Cache
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\PBOCopier\PBOCopier\obj\Debug\PBOCopier.exe
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\PBOCopier\PBOCopier\obj\Debug\PBOCopier.pdb

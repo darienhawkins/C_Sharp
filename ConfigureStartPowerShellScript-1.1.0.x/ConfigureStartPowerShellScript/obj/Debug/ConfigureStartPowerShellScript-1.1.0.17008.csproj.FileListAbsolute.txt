@@ -1,0 +1,14 @@
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\bin\Debug\ConfigureStartPowerShellScript-01.exe.config
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\bin\Debug\ConfigureStartPowerShellScript-01.exe.manifest
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\bin\Debug\ConfigureStartPowerShellScript-01.application
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\bin\Debug\ConfigureStartPowerShellScript-01.exe
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\bin\Debug\ConfigureStartPowerShellScript-01.pdb
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript_01.Form1.resources
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript_01.Form_CheckServerActivationStatus.resources
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript_01.Properties.Resources.resources
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-1.1.0.17008.csproj.GenerateResource.Cache
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-01.TrustInfo.xml
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-01.exe.manifest
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-01.application
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-01.exe
+C:\Users\darien.hawkins\Documents\GitHub\FBNCEng\VS_Projects\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-01.pdb

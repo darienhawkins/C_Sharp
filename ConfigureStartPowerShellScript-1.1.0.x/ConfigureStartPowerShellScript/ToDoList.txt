@@ -1,0 +1,58 @@
+_	Add a distribution of Linux as VM option (must have xrdp installed on Linux)
+
+X	Kill all mstsc processes when killing VM
+X	When two versions of OS are selected, give a different MAC (e.g. 07 and A7 for Win7)
+X	Troublshooting tab: 
+X		Powershell/CMD
+X		Notepad/Clock
+X		Server/Hyper-V Manager 
+X	Provide buttons to manuallyRDP into running VMs
+X	Add application versoin number
+X	Provide choice for Managed vs. Mis-Attribution
+X	Auto launch Medusa
+X	Fix restart and shutdown scripts to gracefully shutdown Medusa
+X	Add button for slmgr /dlv (and rearm)
+X	Add button to close application and shutdown computer
+X	Change logo
+X	Fix UI Size for 1366x768
+X	Persistent storage for VMs (bitlocker)/Attach local VHDX for persistent above
+X	Button to destroy and recreate persistent disk
+X	Disable Medusa restart button while VMs are running
+X	Provide button/option to restart local, standalone Medusa
+X	Add CD/DVD Burning from host
+X	Have memory caluclation update when VMs are selected
+X	Change RDP IP address (and DHCP on Server) to 192.168.222.0/24
+X	Change RDP IP address (and DHCP on Server) to 192.168.222.0/24
+X	Update VM (working parent; possibly activate Win10)
+X	Fix delete persistent disk button
+X	Add button to change display properties on host (ATI, Intel, NVIDIA)
+X	Some rudimentary error handling
+X	Start stop Medusa when server/standalone is toggled
+X	Fix button to provide logic for when two are selected
+
+_	Investigate using WindowsToGo USB drives
+/	DNS (Google or AWS (preferred))--Do on Medusa box for certain customers
+
+
+// Syntax to use VNC viewer to connect to Linux boxes when ready
+.\VNC-Viewer-5.3.0-Windows-64bit.exe  -fullscreen -securitynotificationtimeout=0 -warnunencrypted=0 -scaling -host 192.168.102.71:0
+
+
+Enable wireless when necessary (important for Server 2012R2)
+
+
+NOTES:
+VM's must have:
+* JAVA 1.7 or greater
+* User account must have admin rights (recommended)
+* All browsers start/home page set to http://www.google.com (set as default search engine)
+	** http://router.maa
+
+Intel HD Graphics Control Panel
+C:\WINDOWS\system32\GfxUIEx.exe
+
+NVIDIA
+c:\Program Files\NVIDIA Corporation\Control Panel Client\nvcplui.exe
+
+ATI
+C:\Program Files (x86)\AMD\ATI.ACE\Core-Static\CCC.exe

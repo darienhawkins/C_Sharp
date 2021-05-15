@@ -1,0 +1,17 @@
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\Release\VBS2_Launcher.exe.config
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\Release\VBS2_Launcher.exe.manifest
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\Release\VBS2_Launcher.application
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\Release\VBS2_Launcher.exe
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\Release\VBS2_Launcher.pdb
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Launcher.csprojResolveAssemblyReference.cache
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Selector.Form1.resources
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Selector.Properties.Resources.resources
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Launcher.csproj.GenerateResource.Cache
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Launcher.TrustInfo.xml
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Launcher.exe.manifest
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Launcher.application
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Launcher.exe
+E:\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Launcher.pdb
+C:\Users\Darien\Documents\c#\VSProjects\Visual Studio 2010\VBS2_Selector\Release\VBS2_Launcher.exe.config
+C:\Users\Darien\Documents\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Launcher.exe
+C:\Users\Darien\Documents\c#\VSProjects\Visual Studio 2010\VBS2_Selector\VBS2_Selector\obj\Release\VBS2_Launcher.pdb

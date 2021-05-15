@@ -1,0 +1,8 @@
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb

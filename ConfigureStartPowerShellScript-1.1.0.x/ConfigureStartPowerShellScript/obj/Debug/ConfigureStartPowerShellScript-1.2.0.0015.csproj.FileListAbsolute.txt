@@ -1,0 +1,3 @@
+C:\Users\darien.hawkins\Documents\GitHub\_WorkingCopies\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\bin\Debug\ConfigureStartPowerShellScript-01.exe.config
+C:\Users\darien.hawkins\Documents\GitHub\_WorkingCopies\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-01.exe
+C:\Users\darien.hawkins\Documents\GitHub\_WorkingCopies\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-01.pdb

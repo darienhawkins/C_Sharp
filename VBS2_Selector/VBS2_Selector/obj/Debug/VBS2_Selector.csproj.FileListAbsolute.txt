@@ -1,0 +1,8 @@
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\VBS2_Selector\VBS2_Selector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\VBS2_Selector\VBS2_Selector\obj\Debug\VBS2_Selector.Form1.resources
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\VBS2_Selector\VBS2_Selector\obj\Debug\VBS2_Selector.Properties.Resources.resources
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\VBS2_Selector\VBS2_Selector\obj\Debug\VBS2_Selector.csproj.GenerateResource.Cache
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\VBS2_Selector\VBS2_Selector\bin\Debug\VBS2_Selector.exe
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\VBS2_Selector\VBS2_Selector\bin\Debug\VBS2_Selector.pdb
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\VBS2_Selector\VBS2_Selector\obj\Debug\VBS2_Selector.exe
+C:\Users\onesaf\Documents\Visual Studio 2008\Projects\VBS2_Selector\VBS2_Selector\obj\Debug\VBS2_Selector.pdb

@@ -1,0 +1,219 @@
+﻿PATHS:
+
+C:\VIRTUAL_MACHINES
+└───Hyper-V
+    ├───Machines
+    │   ├───Machine1
+    │   └───Machine2
+    ├───MedusaC
+    │   └───MedusaC
+    ├───Persistent_Disk
+    ├───Shortcuts
+    ├───Source
+    └───VHDX_Parent
+
+
+Notes:
+--	Both the HOST, the Medusa VM, and the cleint VMs must have the same time and the time must be sync'ed with AWS (w/in 5 mins).  This is especially important for the
+	Windows VM.  If the timezone on the host and the VM must be the same
+
+Requirements:
+DHCP Scope for 192.168.222.0/24 (reservations for 7,8,10,17,18,20; MAC AAAAAAAAAAxx where XX is the 07, 08, etc.)
+Hyper-V Networks named: ExternalAccess (external), RPDAccess (internal), Privnet (internal or private)
+MedusaC has two networks (ExternalAccess is eth0, Privnet is eth1)
+
+System Requirements:
+* Any current Intel i7 or Xeon processor supporting hardware virtulization
+* 16 GB of RAM or greater (8 GB is accetable)
+* 1 TB SSD (1 TB HDD [platter based] is accetable, but I/O performance my decrease with VM usage)
+
+
+	
+
+// 0.7.0.1
+* For systems with 8GB of RAM, decrease VM memory from 7 GB to 5 GB for one machine.  Do likewise for two machines.
+* Increase Form size
+* fix shutdown/restart button operation
+* Replace logo
+* Added additional IP/MAC address for "duplicate" systems (+10)
+* Removed "Open RegEdit" button
+
+// 0.7.0.2
+* Logo rotates depending on selected OS
+
+// 0.8.2.0
+* Enable/Disable attribution group box based on action
+* UI reorientation and layout (good for 1366x768)
+* OS picture boxes also launch VM
+
+// 0.8.5.5
+* Sytem memory is now dynamically determined and VM allocation automatic
+* UI tweaks and update
+
+// 0.8.6.2
+* Added date to bottom label
+* Simplified and refactored memory calculation and other code
+* Replaced explicit paths with string varibles
+
+// 0.8.6.7
+* Persistent Storage with the ability to destroy and recreate persistent disks
+* Cleanup on some code
+
+// 0.9.0.3
+* Added routine to check for existence of persistent disk prior to delete
+* Prompts user to select attrution is not selected
+* UI element redisgn
+* Added buttons to open Date/Time dialog and Server manager
+
+// 0.9.1.0 (SPECIAL FOR JIB PEC)
+* Added timer to update time every second
+* Made server (external) based attribution default for dedicated "Medusa" use
+
+// 0.9.1.1
+* Restored option to select attribution
+
+//1.0.0.1
+* Recoded server activation button to check for status
+* Properly set the process start for Hyper-V manager (instead of using a shortcut)
+* Check to see if system is in minimal GUI Mode
+* Enabled persistent disk immediate enable/disable
+
+//1.0.0.4
+* Make standalone based (internal) attribution the default if ServerBasedAttribution.txt does not exist
+* Fixed issue where picturebox[1,2] and enabled and disabled as necessary
+
+//1.0.1.0
+(hold) Change RPDAccess IP space to 192.168.254.0/24 (non-routable)
+* Added button/option to restart local, standalone Medusa
+* Added addtional action to close HyperV Manager, Clock, and Server Manager when VMs are forcefully closed
+
+//1.0.1.1
+* Disable Medusa restart button while VMs are running; enable when controls are reset
+* Added logic for Server Manager check during form load
+* Clean up code for string and const declarations
+
+//1.0.1.2
+* Fixed Server Manager button broken from 1.0.1.1
+
+//1.0.1.3
+* Removed buttons and methods for Command Prompt, Notepad, Server Manager
+
+//1.0.1.6
+* Fixed delete and recreate persistent disk
+* Available memory is calulated each timer tick (1 sec)
+
+//1.1.0.1
+* Added ability to launch imgBurn to burn CD/DVD from host (imgBurn must be installed)
+* Added isolation for server and standalone based attribution
+* Clean up code
+
+//1.1.0.2
+* Calculate available disk space
+
+//1.1.0.3
+* Fixed persistent disk code to actually check for the existence of the P: drive and then provide indication of such
+
+//1.1.0.5
+* Changed RDP Access IP address scheme from 222.222.222.0/24 to 192.168.222.0/24
+* Fixed form sizing issue
+
+//1.1.0.7
+* Fixed label1 to show correct VM Memory information on load
+* Provided logic for Managed Attribution
+
+//1.1.0.8
+* Use vmconnect.exe to connect to MedusaC to see if Medusa restarts correctly
+
+//1.1.0.9
+* Added button and logic to check for SCEP on Server 2012 R2
+* Form focus change is also based on which tab is clicked
+* VM/Available memory is calulated when a tab is calculated
+* Removed unused methods
+
+//1.1.0.10
+* Kills the vmconnect processs (to see if Medusa restarted correctly) if it is running when VMs are launched
+* VM/Available memory is calulated when VM dropdown is clicked
+
+//1.1.0.12
+* Added check for server based attribution when a tab is clicked
+* Persistent disk can now be added and removed with VM running (still cannot delete if VM is running)
+* Changed VM memory percentage from .75 to .8 for single and from .375 to .4 for dual
+* Better logic for determining when the form is always on top
+
+//1.1.0.14
+* Changed "Restart Medusa" to "Restart Denali" when managed attribution is selected
+* Better determination to check if persistent disk is attached during application startup
+* Reverted VM memory percentage back to .75 and .375
+* Persistent disk determination is now much better.
+
+//1.1.0.15
+* If ServerBasedAttribution.txt is true, disable restart Medusa/Denali button
+
+//1.1.0.16
+* Start, stop, rename Medusa based on button selection
+* Added button to open Intel Graphics Display control panel
+
+//1.1.0.17
+* Changed action of attribution radio buttons from "CheckedChanged" to "Click"
+* Commented out "selectAttribution()" method in comboBox_FirstVMSelection_SelectedIndexChanged; no longer needed
+* Provided error message for when Intel HD Graphics Control Panel is not installed
+* Added additional logic for enabling/disabling "restart medusa" button
+* Changed border color depending on selected attribution
+
+//1.1.1.0001
+* Added reestablish RDP session buttons
+
+//1.1.1.0006
+* Fixed reestablish RDP buttons logic; buttons will now properly open correct VM
+* Reverted back to 5 seconds pause for peristent disk to mount; anything less is "too quick" and causes issues
+* Open Display Properties now has buttons for Intel, NVIDIA, and ATI control panels (detects which and what is installed)
+* SCEP button now also checks for existence of Windows Defender when clicked
+
+//1.1.2.0000
+* Removed "button 1" and provided instructions for the user to click the Windows icon(s)
+* Rearranged some of the GUI elements
+* Logic added to ensure the user selects the first VM when two are selected
+* Changed AV text so that it represents host installed AV, regardless of vendor
+* Changed RestartLocalMedusa button text to reflect selected attribution
+
+//1.1.2.0003
+* Added multimontor selection for reestablishing RDP connections,  Intitial connection is multimonitor
+
+//1.1.2.0004
+* Resized and repositioned some GUI elements
+
+//1.2.0.0005
+* Moved selectAttribution() method to end of checkIfServerBased() method resulting in less, dedicated calls
+* Removed dedicated "kill all vm" and "start vm" buttons.  Both features are now dynically set to the same button via the button_StartOrKillVMAction() method
+* Broke up code and moved some methods to Methods.cs and Methods_RDP.cs
+
+//1.2.0.0006
+* Close vmconnect if open when Medusa/Denali is restarted
+* Cleaner code
+* Added method checkForProcessAndKill();
+* Interate, find and close processes (must leave .exe off!)	
+	string[] dialogsToClose = { "mmc", "rundll32", "servermanager", "vmconnect" };
+    foreach (string dtc in dialogsToClose)
+    {
+		checkForProcessAndKill(dtc);
+    }
+
+//1.3.0.0004 (16 May 2016)
+* Added button to open sconfig.cmd if present on system to help with server config if necessary
+* Added a new file, Run_Start_Processes.cs, to host the method to start all processes
+* Close all dialogs when VMs start
+* Created DialogsToClose.cs to centralized the closure of commond dialogs.
+* Moved the methods to launch VMs to a seperate file
+* Replaced a multiple if, if else condition statement with a simpler switch, case block
+* Added company logo in lower left corner
+
+//1.3.0.0005 (16 May 2016)
+* Better timing to calculate available memory
+
+//1.3.0.0007 (18 May 2016)
+* Moved label1 to the top to make it obvious
+* Updated dialog close array to fix bug.
+
+//1.3.01.0005 (26 May 2016)
+* Removed extranious comments
+* Refactor
