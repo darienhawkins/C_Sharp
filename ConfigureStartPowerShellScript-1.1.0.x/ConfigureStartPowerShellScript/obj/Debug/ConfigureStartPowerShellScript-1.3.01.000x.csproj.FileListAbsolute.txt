@@ -14,4 +14,4 @@ C:\Users\darien.hawkins\Documents\GitHub\_WorkingCopies\ConfigureStartPowerShell
 C:\Users\darien.hawkins\Documents\GitHub\_WorkingCopies\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-01.exe
 C:\Users\darien.hawkins\Documents\GitHub\_WorkingCopies\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-01.pdb
 C:\Users\darien.hawkins\Documents\GitHub\_WorkingCopies\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-1.3.01.000x.csprojResolveAssemblyReference.cache
-C:\Users\darie\Documents\Novetta\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-1.3.01.000x.csprojAssemblyReference.cache
+C:\Users\darie\Documents\ObfuscatedCompanyName_Noxxxta\ConfigureStartPowerShellScript-1.1.0.x\ConfigureStartPowerShellScript\obj\Debug\ConfigureStartPowerShellScript-1.3.01.000x.csprojAssemblyReference.cache

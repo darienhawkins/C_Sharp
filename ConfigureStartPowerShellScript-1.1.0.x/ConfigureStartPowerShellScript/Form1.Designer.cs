@@ -710,7 +710,7 @@
             // pictureBox3
             // 
             this.pictureBox3.Enabled = false;
-            this.pictureBox3.Image = global::ConfigureStartPowerShellScript_01.Properties.Resources.Novetta_45x45_SystemBackground;
+            this.pictureBox3.Image = global::ConfigureStartPowerShellScript_01.Properties.Resources.ObfuscatedCompanyName_Noxxxta_45x45_SystemBackground;
             this.pictureBox3.Location = new System.Drawing.Point(123, 509);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(48, 48);

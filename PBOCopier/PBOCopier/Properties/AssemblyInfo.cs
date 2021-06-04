@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("PBOCopier")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TBOC Sims")]
+[assembly: AssemblyCompany("ObfuscatedCompanyName_TxxC Sims")]
 [assembly: AssemblyProduct("PBOCopier")]
-[assembly: AssemblyCopyright("Copyright © TBOC SIMS (Darien Hawkins)")]
+[assembly: AssemblyCopyright("Copyright © ObfuscatedCompanyName_TxxC SIMS (Darien Hawkins)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

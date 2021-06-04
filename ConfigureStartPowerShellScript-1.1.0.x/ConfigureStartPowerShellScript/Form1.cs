@@ -3,7 +3,7 @@
 *                                                                             *
 *                                                                             *
 *                          Programmed by: Darien Hawkins                      *
-*                           email: dhawkins@novetta.com                       *
+*                           email: dhawkins@ObfuscatedCompanyName_Noxxxta.com                       *
 *                                                                             *
 *                          Microsoft Visual Studio 2015                       *
 *                                                                             *

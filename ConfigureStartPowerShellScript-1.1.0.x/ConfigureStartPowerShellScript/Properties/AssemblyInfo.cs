@@ -8,10 +8,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ConfigureStartPowerShellScript-01")]
 [assembly: AssemblyDescription("Attribution VM launcher")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Novetta")]
+[assembly: AssemblyCompany("ObfuscatedCompanyName_Noxxxta")]
 [assembly: AssemblyProduct("ConfigureStartPowerShellScript-01")]
 [assembly: AssemblyCopyright("Copyright © 2016")]
-[assembly: AssemblyTrademark("Novetta Solutions")]
+[assembly: AssemblyTrademark("ObfuscatedCompanyName_Noxxxta Solutions")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 

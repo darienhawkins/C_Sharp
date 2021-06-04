@@ -133,9 +133,9 @@ namespace ConfigureStartPowerShellScript_01.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Novetta {
+        internal static System.Drawing.Bitmap ObfuscatedCompanyName_Noxxxta {
             get {
-                object obj = ResourceManager.GetObject("Novetta", resourceCulture);
+                object obj = ResourceManager.GetObject("ObfuscatedCompanyName_Noxxxta", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,9 +143,9 @@ namespace ConfigureStartPowerShellScript_01.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Novetta_45x45 {
+        internal static System.Drawing.Bitmap ObfuscatedCompanyName_Noxxxta_45x45 {
             get {
-                object obj = ResourceManager.GetObject("Novetta_45x45", resourceCulture);
+                object obj = ResourceManager.GetObject("ObfuscatedCompanyName_Noxxxta_45x45", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +153,9 @@ namespace ConfigureStartPowerShellScript_01.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Novetta_45x45_SystemBackground {
+        internal static System.Drawing.Bitmap ObfuscatedCompanyName_Noxxxta_45x45_SystemBackground {
             get {
-                object obj = ResourceManager.GetObject("Novetta_45x45_SystemBackground", resourceCulture);
+                object obj = ResourceManager.GetObject("ObfuscatedCompanyName_Noxxxta_45x45_SystemBackground", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

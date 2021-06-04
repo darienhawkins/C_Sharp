@@ -50,7 +50,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Novetta.ico</ApplicationIcon>
+    <ApplicationIcon>ObfuscatedCompanyName_Noxxxta.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>3A2F1F2A4E95A9A48AC958A8572AFF72C4CDD24C</ManifestCertificateThumbprint>
@@ -170,7 +170,7 @@
     <None Include="Resources\jsoc_emblem.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Novetta.png" />
+    <None Include="Resources\ObfuscatedCompanyName_Noxxxta.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
@@ -191,7 +191,7 @@
     <None Include="Resources\windows-8-logo-400.png" />
     <None Include="Resources\Windows-10-logo-400.png" />
     <None Include="Resources\Microsoft-logo-m-box-400x400.png" />
-    <Content Include="Novetta.ico" />
+    <Content Include="ObfuscatedCompanyName_Noxxxta.ico" />
     <None Include="Resources\hdd_256.png" />
     <None Include="Resources\thumb_Libraries-2.png" />
     <None Include="Resources\WindowsExplorer.png" />
@@ -199,8 +199,8 @@
     <None Include="Resources\clockface.png" />
     <None Include="Resources\imgBurn.png" />
     <None Include="Resources\imgBurn-SMALL.png" />
-    <None Include="Resources\Novetta_45x45.png" />
-    <None Include="Resources\Novetta_45x45_SystemBackground.png" />
+    <None Include="Resources\ObfuscatedCompanyName_Noxxxta_45x45.png" />
+    <None Include="Resources\ObfuscatedCompanyName_Noxxxta_45x45_SystemBackground.png" />
     <Content Include="ToDoList.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

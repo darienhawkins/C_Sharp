@@ -9,9 +9,9 @@ using System.Resources;
 [assembly: AssemblyTitle("VBS2 Launcher")]
 [assembly: AssemblyDescription("Darien's Integrated Configuration Kit")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TBOC (JTCOIC) SIMS")]
+[assembly: AssemblyCompany("ObfuscatedCompanyName_TxxC (ObfuscatedName_JTxxxC) SIMS")]
 [assembly: AssemblyProduct("VBS2 Launcher")]
-[assembly: AssemblyCopyright("TBOC (JTCOIC) SIMS")]
+[assembly: AssemblyCopyright("ObfuscatedCompanyName_TxxC (ObfuscatedName_JTxxxC) SIMS")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
