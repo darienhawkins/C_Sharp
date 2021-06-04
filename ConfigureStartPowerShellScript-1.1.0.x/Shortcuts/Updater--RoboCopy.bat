@@ -3,7 +3,7 @@
 # Update Endpoint Protection
 "Tools\System Center 2012 Endpoint Protection(UPDATE)\mpam-feX64.exe"
 
-set soureurl=\\share.novadev.local\Shares\M_Project\Virtual_Machines\Hyper-V
+set soureurl=\\share.companydomain.local\Shares\M_Project\Virtual_Machines\Hyper-V
 # set soureurl=%cd%
 
 set destpath=C:\Virtual_Machines\Hyper-V

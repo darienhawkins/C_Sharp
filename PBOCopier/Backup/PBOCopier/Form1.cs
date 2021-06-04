@@ -14,7 +14,7 @@ namespace PBOCopier
         #region Declare and Specify Public Variables
 
             // Specify the config file for source and destination.
-            string configFile = @"\\SIMS-SV-005\Share\Batch_Files\PBOCopier\PBOCopy.config";
+            string configFile = @"\\fileserver05\Share\Batch_Files\PBOCopier\PBOCopy.config";
             string sourceDir = "";
             string destDir = "";
             string fileName = "";

@@ -19,7 +19,7 @@
     <TargetZone>LocalIntranet</TargetZone>
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
     <SignManifests>true</SignManifests>
-    <PublishUrl>\\sims-sv-005\Share\Batch_Files\VBS2_Selector\</PublishUrl>
+    <PublishUrl>\\fileserver05\Share\Batch_Files\VBS2_Selector\</PublishUrl>
     <Install>false</Install>
     <InstallFrom>Unc</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
